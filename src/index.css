@@ -12,7 +12,9 @@ html {
   max-width: 100%;
   overflow-x: hidden;
 }
-
+#UNIQUE_ID_OF_DIV{
+  background-color: #dce0ea ;
+}
 #root {
   height: 100vh;
 }
