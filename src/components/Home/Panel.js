@@ -26,7 +26,7 @@ export class Panel extends Component {
             <Nav>
               <Nav.Link
                 style={{ fontSize: "1.7rem" }}
-                href="https://github.com/Vishv07/SQL-Editor"
+                href="https://github.com/Vishv07/Groww-FindYourBank"
                 target="_blank"
               >
                 <i
