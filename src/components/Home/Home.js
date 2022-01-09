@@ -124,8 +124,6 @@ class Home extends React.Component {
           <Col sm={2}>
             <div className={classes.sidebar}>
               <Link to="/">All banks</Link>
-              <br />
-              <Link to="/bank-details/ABHY0065001">Favorites</Link>
             </div>
           </Col>
           <Col sm={10}>
