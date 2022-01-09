@@ -8,7 +8,7 @@
 body,
 html {
   font-family: "Poppins", sans-serif;
-  background: #161616;
+  background: #FFFFFF;
   max-width: 100%;
   overflow-x: hidden;
 }
@@ -16,6 +16,7 @@ html {
   background-color: #dce0ea ;
 }
 #root {
+  background: #FFFFFF;
   height: 100vh;
 }
 .bi {
